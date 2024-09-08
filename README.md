@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 	def getCity():
 		return CascavelPr()
 
-  	def getUniversity():
-   		return FederalTechnologicalUniversityofParana()
+	def getUniversity():
+		return FederalTechnologicalUniversityofParana()
 	
 	def Ambitions():
 		GraduatingFromCollege()
