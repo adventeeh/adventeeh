@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 		return CascavelPr()
 
   	def getUniversity():
-   		return TechnologicalUniversityofParana()
+   		return FederalTechnologicalUniversityofParana()
 	
 	def Ambitions():
 		GraduatingFromCollege()
