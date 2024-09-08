@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Eduardo Advente
+<h1 align="center">Hi 👋, I'm Eduardo Advente</h1>
 
 <div>
 <h2> Who am I? <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/></h2>
