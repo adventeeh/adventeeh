@@ -26,9 +26,7 @@
 		VisitEurope()
  ```
 
-<div>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adventeeh&layout=compact&langs_count=168&theme=dark"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adventeeh&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)"
 
 <div style="display: inline_block"><br>
   <image align="center" alt="Advente-C99" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
