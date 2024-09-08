@@ -17,21 +17,21 @@ Here are some ideas to get you started:
 </div>
 
  ```python
-  class WhoAmI:
-    user = 'Eduardo Advente'
-	current_edu = "Computer Enginner"
-	hobbies = [
-        'Gaming',
-        'Sports',
-        'Race',
-        'Music'
-  ]
+	class WhoAmI:
+		user = 'Eduardo Advente'
+		current_edu = "Computer Enginner"
+		hobbies = [
+	        	'Gaming',
+	        	'Sports',
+	        	'Race',
+	        	'Music'
+		]
 	
 	def getCity():
 		return CascavelPr()
 
-  def getUniversity():
-   	return TechnologicalUniversityofParana()
+  	def getUniversity():
+   		return TechnologicalUniversityofParana()
 	
 	def Ambitions():
 		GraduatingFromCollege()
