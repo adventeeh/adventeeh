@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eduardo Advente</h1>
 
 <div align="center">
-	<img src="[https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://pin.it/47arap3k7)" width="600">
-	<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="550">
+<br><br>
 </div>
 
 <div>
