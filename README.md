@@ -13,6 +13,7 @@
 		user = 'Eduardo_Advente'
 		current_edu = "Computer Enginner"
 		hobbies = [
+			'Play Guitar'
 	        	'Gaming',
 	        	'Sports',
 	        	'Race',
