@@ -32,11 +32,16 @@
  ```
 
 ## Programming Languages and Tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adventeeh&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-<div style="display: inline_block"><br>
-  <image align="center" alt="Advente-C99" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <image align="center" alt="Advente-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<div style="display: flex; align-items: center; gap: 20px;">
+  <!-- Estatísticas do GitHub -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adventeeh&layout=compact&text_color=daf7dc&bg_color=151515" alt="Top Langs">
+  </a>
+  <!-- Ícones das Linguagens -->
+  <div style="display: flex; gap: 10px;">
+    <img alt="Advente-C99" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+    <img alt="Advente-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  </div>
 </div>
 
 ## Connect with Me
