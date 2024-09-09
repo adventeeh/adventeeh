@@ -11,7 +11,7 @@
  ```python
 	class WhoAmI:
 		user = 'Eduardo_Advente'
-		current_edu = "Computer Enginner"
+		current_edu = "Studying Computer Enginner"
 		hobbies = [
 			'Play Guitar'
 	        	'Gaming',
