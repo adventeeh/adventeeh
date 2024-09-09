@@ -10,7 +10,7 @@
 
  ```python
 	class WhoAmI:
-		user = 'Eduardo Advente'
+		user = 'Eduardo_Advente'
 		current_edu = "Computer Enginner"
 		hobbies = [
 	        	'Gaming',
