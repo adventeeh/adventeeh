@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eduardo Advente</h1>
+<h1 align="center">Hi👋, I'm Eduardo Advente</h1>
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/ff398501-51df-48c8-a804-18877509cc56" height="120" width="550">
