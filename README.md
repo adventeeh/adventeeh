@@ -39,8 +39,12 @@
   </a>
   <!-- Ícones das Linguagens -->
   <div style="display: flex; gap: 10px;"> <br>
-    <img alt="Advente-C99" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-    <img alt="Advente-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+    <a href="#"><img alt="C" src="https://img.shields.io/badge/c%20-%232370ED.svg?logo=c&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"></a>
+    <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart%20-%230175C2.svg?logo=dart&logoColor=white"></a>
+    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?logo=flutter&logoColor=white"></a>
   </div>
 </div>
 
