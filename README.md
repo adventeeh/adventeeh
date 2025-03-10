@@ -1,35 +1,4 @@
-<h1 align="center">Hi👋, welcome to my profile!</h1>
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/ff398501-51df-48c8-a804-18877509cc56" height="125" width="600">
-</div>
-
-<div>
-<h2> Who am I?</h2>
-</div>
-
- ```python
-	class WhoAmI:
-		user = 'Eduardo_Advente'
-		current_edu = "Studying Computer Enginner"
-		hobbies = [
-			'Play Guitar'
-	        	'Gaming',
-	        	'Sports',
-	        	'Race',
-	        	'Music'
-		]
-	
-	def getCity():
-		return CascavelPr()
-
-	def getUniversity():
-		return FederalTechnologicalUniversityofParana()
-	
-	def Ambitions():
-		GraduatingFromCollege()
-		VisitEurope()
- ```
+<h1 align="center">Welcome to my profile!</h1>
 
 ## Technologies
 <div style="display: flex; align-items: center; gap: 20px;">
