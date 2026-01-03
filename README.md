@@ -2,10 +2,6 @@
 
 ## Technologies
 <div style="display: flex; align-items: center; gap: 20px;">
-  <!-- Estatísticas do GitHub -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adventeeh&layout=compact&text_color=daf7dc&bg_color=151515" alt="Top Langs">
-  </a>
   <!-- Ícones das Linguagens -->
   <div style="display: flex; gap: 10px;"> <br>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/c%20-%232370ED.svg?logo=c&logoColor=white"></a>
